@@ -36,4 +36,17 @@ El resultado proporcionará una lista del tráfico de HTTP que se permite:
 
 - ### tercer paso: Comprobar el servidor web
 
+Al final del proceso de instalación, Ubuntu 20.04 inicia Apache. El servidor web ya debería estar activo.
 
+Realice una verificación con el sistema init systemd para saber si se encuentra en ejecución el servicio escribiendo lo siguiente:
+```
+sudo systemctl status apache2
+```
+Aunque la mejor forma de comprobarlo es simplemente solicitar una página de Apache.
+
+Escribiendo la siguiente línea averiguaremos nuestra ip:
+```
+hostname -I
+```
+
+Intente escribir esto en la línea de comandos de su servidor:

@@ -49,8 +49,11 @@ Escribiendo la siguiente línea averiguaremos nuestra ip:
 hostname -I
 ```
 
-Intente escribir esto en la línea de comandos de su servidor:
+Cuando tenga la dirección IP de su servidor, introdúzcala en la barra de direcciones de su navegador:
 
+http://your_server_ip
+
+Debería ver la página web predeterminada de Apache en Ubuntu 20.04:
 ### Webgrafía
 
 - [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es#registros-del-servidor )

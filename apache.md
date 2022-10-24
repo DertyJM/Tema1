@@ -50,3 +50,8 @@ hostname -I
 ```
 
 Intente escribir esto en la línea de comandos de su servidor:
+
+### Webgrafía
+
+- [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es#registros-del-servidor )
+- [Linuxhint](https://linuxhint.com/install_apache_tomcat_server_ubuntu/)

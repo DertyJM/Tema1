@@ -1,6 +1,6 @@
 ## Práctica GitHub
 
-**Diego Jaén**
+**Diego J.M**
 
 - Introducció (Qué es github y usos, així como qué se va a ver en este informe)
 
